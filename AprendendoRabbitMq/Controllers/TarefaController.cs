@@ -24,7 +24,7 @@ namespace AprendendoRabbitMq.Controllers
 
                 return BadRequest(response);
             }
-            Send.Main();
+            Send.Main("Exchange1", "c", response);
             return Ok(response);
         }
 
