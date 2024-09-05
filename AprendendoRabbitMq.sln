@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoRabbitMq", "AprendendoRabbitMq\AprendendoRabbitMq.csproj", "{749C3099-E766-4E75-80EA-2BC3D57702F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoRabbitMq.Tests", "AprendendoRabbitMq.Tests\AprendendoRabbitMq.Tests.csproj", "{740C48ED-FD0C-4C7D-A12D-3B6F53D4AC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749C3099-E766-4E75-80EA-2BC3D57702F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749C3099-E766-4E75-80EA-2BC3D57702F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749C3099-E766-4E75-80EA-2BC3D57702F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749C3099-E766-4E75-80EA-2BC3D57702F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740C48ED-FD0C-4C7D-A12D-3B6F53D4AC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740C48ED-FD0C-4C7D-A12D-3B6F53D4AC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740C48ED-FD0C-4C7D-A12D-3B6F53D4AC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740C48ED-FD0C-4C7D-A12D-3B6F53D4AC36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {687794D6-5F36-4682-836D-856B51BD24A8}
+	EndGlobalSection
+EndGlobal
